@@ -2,21 +2,21 @@
     {
         "nome": "Maria Souza",
         "cargo": "Designer",
-        "imagem": "maria.jpg"
+        "imagem": "./img/maria.jpg"
     },
     {
         "nome": "João Silva",
         "cargo": "DBA",
-        "imagem": "joao.jpg"
+        "imagem": "./img/joao.jpg"
     },
     {
         "nome": "Hugo Pereira",
         "cargo": "FrontEnd",
-        "imagem": "hugo.jpg"
+        "imagem": "./img/hugo.jpg"
     },
     {
         "nome": "Ana Maria",
         "cargo": "BackEnd",
-        "imagem": "ana.jpg"
+        "imagem": "./img/ana.jpg"
     }
 ]

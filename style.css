@@ -10,10 +10,10 @@ body{
     height: 100dvh;
 }
 .container-funcionarios{
-    width: 80%;
+    width: 100%;
     display: flex;
-    justify-content: space-between;
-    background-color: tomato;
+    justify-content: center; 
+    gap: 48px;
     height: 200px;
 }
 .container-funcionarios div{
@@ -26,20 +26,20 @@ body{
     box-shadow: 0 0 16px #000;
     border-radius: 12px;
     overflow: hidden;
-    background-color: white;
+    
 }
 div p{
     width: 100%;
     position: absolute;
-    bottom: 10px;
-    font-size: 48px;
+    bottom: 20px;
+    font-size: 28px;
     text-align: center;
 }
 div span{
     width: 100%;
     position: absolute;
-    bottom: 2px;
-    font-size: 24px;
+    bottom: 0px;
+    font-size: 18px;
     text-align: center;
 }
 div img{
