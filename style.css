@@ -17,6 +17,7 @@ body{
     border-radius: 12px;
     /* gap: 48px; */
     height: 500px;
+    background-color: antiquewhite;
 }
 .container-funcionarios div{
     display: flex;
